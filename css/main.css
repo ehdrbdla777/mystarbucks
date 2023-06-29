@@ -487,16 +487,9 @@ header .inner nav ul.main-menu > li .item__contents .contents__menu{
   height: 300px;
   background: #1e3932;
 }
-.rewards .inner{
-  height: 214px;
-  width: 250px;
-  position: absolute;
-  bottom: 60px;
-  left: 350px;
-}
 .rewards .inner .rewards-box {
   position: absolute;
-  left: 170%;
+  bottom : 52px;
 }
 .rewards .inner .rewards-text-box1 {
   width: 700px;
